@@ -1,11 +1,19 @@
 {
   "name": "todomvc-react",
+  "author": {
+    "name": "Tulio Faria",
+    "email": "tuliofaria@devpleno.com",
+    "url": "https://devpleno.com"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "todomvc-app-css": "^2.2.0",
+    "todomvc-common": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
